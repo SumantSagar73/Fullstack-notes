@@ -7,11 +7,13 @@
 ## Table of Contents
 
 **Part 1 — The Foundation**
+
 1. [What Is LLD and Why Should You Care?](#1-what-is-lld-and-why-should-you-care)
 2. [Code Smells — How to Spot Problems Before They Rot](#2-code-smells--how-to-spot-problems-before-they-rot)
 3. [SOLID Principles — The Five Laws of Good Code](#3-solid-principles--the-five-laws-of-good-code)
 
 **Part 2 — Design Patterns (Creational)**
+
 4. [Singleton — One and Only One](#4-singleton--one-and-only-one)
 5. [Factory Method — Let Someone Else Decide](#5-factory-method--let-someone-else-decide)
 6. [Abstract Factory — Factory of Factories](#6-abstract-factory--factory-of-factories)
@@ -19,6 +21,7 @@
 8. [Prototype — Clone Instead of Create](#8-prototype--clone-instead-of-create)
 
 **Part 3 — Design Patterns (Structural)**
+
 9. [Adapter — Making Incompatible Things Work Together](#9-adapter--making-incompatible-things-work-together)
 10. [Decorator — Adding Features Without Touching Original Code](#10-decorator--adding-features-without-touching-original-code)
 11. [Facade — One Simple Door to a Complex Building](#11-facade--one-simple-door-to-a-complex-building)
@@ -26,6 +29,7 @@
 13. [Composite — Treating One and Many the Same Way](#13-composite--treating-one-and-many-the-same-way)
 
 **Part 4 — Design Patterns (Behavioral)**
+
 14. [Strategy — Swappable Algorithms](#14-strategy--swappable-algorithms)
 15. [Observer — When Something Happens, Tell Everyone Who Cares](#15-observer--when-something-happens-tell-everyone-who-cares)
 16. [Command — Turn Actions into Objects](#16-command--turn-actions-into-objects)
@@ -36,6 +40,7 @@
 21. [Mediator — Stop Everyone from Talking to Everyone](#21-mediator--stop-everyone-from-talking-to-everyone)
 
 **Part 5 — Putting It All Together**
+
 22. [Clean Architecture & Layered Architecture](#22-clean-architecture--layered-architecture)
 23. [Dependency Injection — Don't Create, Receive](#23-dependency-injection--dont-create-receive)
 24. [Refactoring — How to Fix Bad Code Without Breaking It](#24-refactoring--how-to-fix-bad-code-without-breaking-it)
