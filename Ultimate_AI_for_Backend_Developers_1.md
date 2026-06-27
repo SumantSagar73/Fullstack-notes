@@ -7,35 +7,41 @@
 ## Table of Contents
 
 **Part 1 — Understanding AI (What You Need, Nothing More)**
+
 1. [AI, ML, Deep Learning, LLMs — What's What?](#1-ai-ml-deep-learning-llms--whats-what)
 2. [How LLMs Actually Work (The Backend Developer Version)](#2-how-llms-actually-work-the-backend-developer-version)
 3. [Tokens, Context Windows & Temperature — The Knobs You Control](#3-tokens-context-windows--temperature--the-knobs-you-control)
 4. [Prompt Engineering — Programming in English](#4-prompt-engineering--programming-in-english)
 
 **Part 2 — Working with AI APIs**
+
 5. [Calling LLM APIs — OpenAI, Anthropic, Google & Others](#5-calling-llm-apis--openai-anthropic-google--others)
 6. [Streaming Responses — Don't Make Users Stare at a Spinner](#6-streaming-responses--dont-make-users-stare-at-a-spinner)
 7. [Function Calling / Tool Use — Letting the AI Call Your Code](#7-function-calling--tool-use--letting-the-ai-call-your-code)
 8. [Structured Output — Getting JSON, Not Prose](#8-structured-output--getting-json-not-prose)
 
 **Part 3 — Embeddings & Vector Search**
+
 9. [Embeddings — Turning Text into Numbers That Understand Meaning](#9-embeddings--turning-text-into-numbers-that-understand-meaning)
 10. [Vector Databases — The New Database You Need to Know](#10-vector-databases--the-new-database-you-need-to-know)
 11. [Semantic Search — Search by Meaning, Not Keywords](#11-semantic-search--search-by-meaning-not-keywords)
 
 **Part 4 — RAG (The Most In-Demand AI Skill)**
+
 12. [RAG — Retrieval Augmented Generation Explained](#12-rag--retrieval-augmented-generation-explained)
 13. [Building a RAG Pipeline Step by Step](#13-building-a-rag-pipeline-step-by-step)
 14. [Chunking Strategies — How to Split Documents](#14-chunking-strategies--how-to-split-documents)
 15. [Advanced RAG — Hybrid Search, Reranking & Query Transformation](#15-advanced-rag--hybrid-search-reranking--query-transformation)
 
 **Part 5 — AI Agents & Advanced Patterns**
+
 16. [AI Agents — LLMs That Take Actions](#16-ai-agents--llms-that-take-actions)
 17. [Conversation Memory & Chat History Management](#17-conversation-memory--chat-history-management)
 18. [Multi-Model Architectures — Using the Right Model for Each Job](#18-multi-model-architectures--using-the-right-model-for-each-job)
 19. [Fine-Tuning — When Prompting Isn't Enough](#19-fine-tuning--when-prompting-isnt-enough)
 
 **Part 6 — Production Concerns**
+
 20. [Cost Optimisation — AI Bills Can Destroy You](#20-cost-optimisation--ai-bills-can-destroy-you)
 21. [Latency Optimisation — Making AI Feel Fast](#21-latency-optimisation--making-ai-feel-fast)
 22. [Safety, Guardrails & Content Moderation](#22-safety-guardrails--content-moderation)
@@ -43,6 +49,7 @@
 24. [AI Architecture Patterns for Backend Systems](#24-ai-architecture-patterns-for-backend-systems)
 
 **Part 7 — Real-World Projects & Interview**
+
 25. [Project 1: AI-Powered Customer Support Bot](#25-project-1-ai-powered-customer-support-bot)
 26. [Project 2: Document Q&A System (RAG)](#26-project-2-document-qa-system-rag)
 27. [Project 3: AI Content Moderation Pipeline](#27-project-3-ai-content-moderation-pipeline)

@@ -7,6 +7,7 @@
 ## Table of Contents
 
 **Part 1 — Foundations of Scale**
+
 1. [What Is HLD and How Is It Different from LLD?](#1-what-is-hld-and-how-is-it-different-from-lld)
 2. [Scaling 101 — Vertical vs Horizontal](#2-scaling-101--vertical-vs-horizontal)
 3. [Load Balancing — Distributing the Traffic](#3-load-balancing--distributing-the-traffic)
@@ -15,6 +16,7 @@
 6. [Proxy & Reverse Proxy](#6-proxy--reverse-proxy)
 
 **Part 2 — Data Layer**
+
 7. [Database Fundamentals — SQL vs NoSQL](#7-database-fundamentals--sql-vs-nosql)
 8. [Database Indexing — Why Your Queries Are Slow](#8-database-indexing--why-your-queries-are-slow)
 9. [Database Replication — Copies for Safety and Speed](#9-database-replication--copies-for-safety-and-speed)
@@ -23,6 +25,7 @@
 12. [Consistent Hashing — The Key to Distributed Systems](#12-consistent-hashing--the-key-to-distributed-systems)
 
 **Part 3 — Communication & Processing**
+
 13. [Message Queues & Async Processing](#13-message-queues--async-processing)
 14. [Event-Driven Architecture](#14-event-driven-architecture)
 15. [Microservices vs Monolith](#15-microservices-vs-monolith)
@@ -30,12 +33,14 @@
 17. [Service Discovery & Communication](#17-service-discovery--communication)
 
 **Part 4 — Reliability & Performance**
+
 18. [Rate Limiting at Scale](#18-rate-limiting-at-scale)
 19. [Circuit Breaker — Failing Gracefully](#19-circuit-breaker--failing-gracefully)
 20. [Monitoring, Logging & Observability](#20-monitoring-logging--observability)
 21. [Data Redundancy, Backup & Disaster Recovery](#21-data-redundancy-backup--disaster-recovery)
 
 **Part 5 — Real System Design Case Studies**
+
 22. [How to Approach Any System Design Problem](#22-how-to-approach-any-system-design-problem)
 23. [Design a URL Shortener (like bit.ly)](#23-design-a-url-shortener-like-bitly)
 24. [Design a Chat System (like WhatsApp)](#24-design-a-chat-system-like-whatsapp)
@@ -46,6 +51,7 @@
 29. [Design an E-Commerce System](#29-design-an-e-commerce-system)
 
 **Part 6 — Interview Questions**
+
 30. [System Design Interview Questions (80+ Questions)](#30-system-design-interview-questions-80-questions)
 
 ---

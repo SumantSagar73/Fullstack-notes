@@ -9,24 +9,28 @@
 ## Table of Contents
 
 **Part 1 — AWS Foundations**
+
 1. [AWS Mental Model — How to Think About the Cloud](#1-aws-mental-model)
 2. [AWS CLI Setup & Your First Commands](#2-aws-cli-setup--your-first-commands)
 3. [IAM — Who Can Do What](#3-iam--who-can-do-what)
 4. [Regions, Availability Zones & Edge Locations](#4-regions-availability-zones--edge-locations)
 
 **Part 2 — Compute (Where Your Code Runs)**
+
 5. [EC2 — Virtual Servers](#5-ec2--virtual-servers)
 6. [Lambda — Functions Without Servers](#6-lambda--functions-without-servers)
 7. [ECS & Fargate — Running Docker Containers](#7-ecs--fargate--running-docker-containers)
 8. [When to Use EC2 vs Lambda vs ECS](#8-when-to-use-ec2-vs-lambda-vs-ecs)
 
 **Part 3 — Storage & Databases**
+
 9. [S3 — Store Anything, Serve Anything](#9-s3--store-anything-serve-anything)
 10. [RDS — Managed Relational Databases](#10-rds--managed-relational-databases)
 11. [DynamoDB — NoSQL at Any Scale](#11-dynamodb--nosql-at-any-scale)
 12. [ElastiCache — Managed Redis/Memcached](#12-elasticache--managed-redismemcached)
 
 **Part 4 — Networking & Traffic**
+
 13. [VPC — Your Private Network in the Cloud](#13-vpc--your-private-network-in-the-cloud)
 14. [ALB — Application Load Balancer](#14-alb--application-load-balancer)
 15. [Route 53 — DNS & Domain Management](#15-route-53--dns--domain-management)
@@ -34,16 +38,19 @@
 17. [API Gateway — Managed API Layer](#17-api-gateway--managed-api-layer)
 
 **Part 5 — Messaging & Async**
+
 18. [SQS — Simple Queue Service](#18-sqs--simple-queue-service)
 19. [SNS — Simple Notification Service](#19-sns--simple-notification-service)
 20. [EventBridge — Event Bus](#20-eventbridge--event-bus)
 
 **Part 6 — Monitoring, Security & DevOps**
+
 21. [CloudWatch — Logs, Metrics & Alarms](#21-cloudwatch--logs-metrics--alarms)
 22. [Secrets Manager & Parameter Store](#22-secrets-manager--parameter-store)
 23. [ECR — Container Registry](#23-ecr--container-registry)
 
 **Part 7 — Real Architectures**
+
 24. [Architecture 1: Simple API Backend](#24-architecture-1-simple-api-backend)
 25. [Architecture 2: Scalable Microservices](#25-architecture-2-scalable-microservices)
 26. [Architecture 3: Serverless Backend](#26-architecture-3-serverless-backend)
@@ -51,6 +58,7 @@
 28. [Cost Optimization — Don't Go Bankrupt](#28-cost-optimization--dont-go-bankrupt)
 
 **Part 8 — Practical Exercises**
+
 29. [Exercise 1: Deploy a Node.js API to EC2](#29-exercise-1-deploy-a-nodejs-api-to-ec2)
 30. [Exercise 2: Serverless REST API with Lambda + API Gateway + DynamoDB](#30-exercise-2-serverless-rest-api-with-lambda--api-gateway--dynamodb)
 31. [Exercise 3: Dockerized App on ECS Fargate](#31-exercise-3-dockerized-app-on-ecs-fargate)
@@ -61,6 +69,7 @@
 36. [Cleanup — Don't Get Surprise Bills](#36-cleanup--dont-get-surprise-bills)
 
 **Part 9 — Interview Questions**
+
 37. [AWS Interview Questions (60+ Questions)](#37-aws-interview-questions-60-questions)
 
 ---
